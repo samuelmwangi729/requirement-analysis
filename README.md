@@ -47,3 +47,13 @@ These are functions that describe what a software should do. Example is register
 ## Non-functional Requirements
 They describe how a system should perform. Eg, the system should be scalled up...
 
+# Use Case Diagrams.
+Use case diagrams are diagrams under the Unified Modelling Language that help show the functional requirement of the system.
+## Benefits of Use Case Diagrams
+- Clear Communication
+- Requirement Clarification
+- User centered Design
+  <img src="https://drive.google.com/file/d/1bXMoPxkRbD-Q9ZQrTKKUh9l417AJzbQX/view?usp=sharing"/>
+
+
+

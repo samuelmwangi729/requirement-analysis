@@ -16,3 +16,20 @@ The Developers are able to know what are the boundaries of the system as explain
 With the developers having the scope of the system, they can easily give the budget and the time it will take for the system to be complete
 
 ---
+# Key Activities in Requirement Analysis.
+- Requirement Gathering
+  The requirements are gathered using
+    - interviews
+    - documents review
+    - surveys
+    - Questionnaires etc.
+- Requirement elicitation
+  This is where the information from the stakeholders are collected to determine the scope of the system. The information is collected through
+  - Brain storming
+  - Focus groups
+  - Prototyping
+- Requirement Gathering
+- Requirement Gathering
+- Requirement Gathering
+- Requirement Gathering
+

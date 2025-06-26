@@ -28,7 +28,11 @@ With the developers having the scope of the system, they can easily give the bud
   - Brain storming
   - Focus groups
   - Prototyping
-- Requirement Gathering
+- Requirement Documentation
+  This is where the developers produce the documentation explaining the requirements and also explaining the way around the system. Such documentations include:
+    - Requirement Specification Document
+    - User Stories
+    - Use Cases
 - Requirement Gathering
 - Requirement Gathering
 - Requirement Gathering

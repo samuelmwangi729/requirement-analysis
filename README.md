@@ -33,7 +33,10 @@ With the developers having the scope of the system, they can easily give the bud
     - Requirement Specification Document
     - User Stories
     - Use Cases
-- Requirement Gathering
-- Requirement Gathering
-- Requirement Gathering
-
+- Requirement Analysis & modelling
+    - Requirement prioritization
+    - feasibility analysis
+- Requirement Validation
+    - review and approval
+    - Traceability
+  

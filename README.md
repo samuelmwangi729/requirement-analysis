@@ -56,7 +56,10 @@ Use case diagrams are diagrams under the Unified Modelling Language that help sh
 
 
   
- ![Use Case Diagram](https://drive.google.com/uc?export=view&id=1bXMoPxkRbD-Q9ZQrTKKUh9l417AJzbQX)
+ ![Use Case Diagram](alx-booking-uc.png)
+
+# Acceptance Criteria
+These are conditions in which the software must meet to be accepted by the stakeholders.
 
 
 

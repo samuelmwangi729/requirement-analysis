@@ -60,6 +60,11 @@ Use case diagrams are diagrams under the Unified Modelling Language that help sh
 
 # Acceptance Criteria
 These are conditions in which the software must meet to be accepted by the stakeholders.
+## Benefits of Acceptance Criteria
+- Sets clear boundaries at work
+- Enables effective testing of the software
+- Improves communication
+- Facilitates clients satisfaction
 
 
 

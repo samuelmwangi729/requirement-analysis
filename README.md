@@ -39,4 +39,11 @@ With the developers having the scope of the system, they can easily give the bud
 - Requirement Validation
     - review and approval
     - Traceability
-  
+# Types of Requirements
+
+## Functional Requirements
+These are functions that describe what a software should do. Example is registering users, manage user accounts etc..
+
+## Non-functional Requirements
+They describe how a system should perform. Eg, the system should be scalled up...
+
